@@ -5,4 +5,5 @@
 Repositório contendo a pipeline solicitada.
 
 ## Evidências dos Testes
-(Vou adicionar as prints dos 3 testes aqui antes de enviar o e-mail)
+
+<img width="1898" height="563" alt="Captura de tela 2026-05-29 182947" src="https://github.com/user-attachments/assets/5eb2eff3-868f-4493-ae95-f5368256720d" />
